@@ -1,4 +1,4 @@
-![MasterHead](https://nira.ac.in/images/android-banner-5.jpg)
+![MasterHead](https://miro.medium.com/max/1400/1*TVdM3xU44wzY4T_vvbp-jQ.png)
 <h1 align="center">Hi 👋, I'm Sagar</h1>
 <h3 align="center">I am a passionate Full stack and Android Developer. Eager to expand horizons and make positive impact by taking on hands-on, dynamic challenges.</h3>
 <p><img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/777804/screenshots/4337089/media/99717ffbe4b2440358427f79d90d2e95.gif"alt="sagarsubedi619" /> </p>
