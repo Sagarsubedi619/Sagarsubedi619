@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [Autonomous Raspberry pi car](https://github.com/users/Sagarsubedi619/projects/2)
 
-- 🌱 I’m currently learning **OpenCV**
+- 🌱 I’m currently learning **OpenCV, TensorFlow, Kotlin Coroutines**
 
 - 💬 Ask me about **Android Development, Kotlin, Data Structures**
 
 - 📫 How to reach me **sagarsubedi619@gmail.com**
 
-- ⚡ Fun fact **I speak 4 languages**
+- ⚡ Fun fact **I speak 3 languages (English, Nepali, and Japanese)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
