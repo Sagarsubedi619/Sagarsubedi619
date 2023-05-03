@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/max/1400/1*TVdM3xU44wzY4T_vvbp-jQ.png)
 <h1 align="center">Hi 👋, I'm Sagar</h1>
-<h3 align="center">I am a passionate Full stack and Android Developer. Eager to expand horizons and make positive impact by taking on hands-on, dynamic challenges.</h3>
+<h3 align="center">I am a passionate Software Developer. Eager to expand horizons and make positive impact by taking on hands-on, dynamic challenges.</h3>
 <p><img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/777804/screenshots/4337089/media/99717ffbe4b2440358427f79d90d2e95.gif"alt="sagarsubedi619" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarsubedi619&label=Profile%20views&color=0e75b6&style=flat" alt="sagarsubedi619" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **OpenCV, TensorFlow, Kotlin Coroutines**
 
-- 💬 Ask me about **Android Development, Kotlin, Data Structures**
+- 💬 Ask me about **Java, Android Development, Kotlin, Data Structures**
 
 - 📫 How to reach me **sagarsubedi619@gmail.com**
 
